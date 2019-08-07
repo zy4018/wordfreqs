@@ -1,4 +1,4 @@
-
+# 2019-08
 # Purpose: dictionary & pickle as a simple means of database.
 # Task: incorporate the functions into wordfreqCMD.py such that it will also show cumulative frequency.
 
